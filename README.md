@@ -20,3 +20,9 @@
 #### Projektmanagement: Kleine Projekte im Uni-Kontext
 
 ### Hier Visualisieren:- https://campuseingang-wnvzv9m9uvv99rwhwrpwyx.streamlit.app
+
+##  Auteur
+
+- Pascal Nague : N.O. AI Efficient Engineer
+ GitHub : [https://github.com/ton-username](https://github.com/NPCabrel)
+-Arold Tsatio : Software-Develloper
