@@ -24,5 +24,5 @@
 ##  Auteur
 
 - Pascal Nague : N.O. AI Efficient Engineer
- GitHub : [https://github.com/ton-username](https://github.com/NPCabrel)
+ GitHub : https://github.com/NPCabrel
 - Arold Tsatio : Software-Develloper
